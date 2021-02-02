@@ -1,16 +1,16 @@
-// Falsy value
-// 0
-// ""
-// undefined
-// null
-// false
+Falsy value
+0
+""
+undefined
+null
+false
 
-// truthy value
-// '0', ' ', [], 'false'
+truthy value
+'0', ' ', [], 'false'
 
 
-// const name = 'sunjid';
-let name = 'false';
+const name = 'sunjid';
+let name = '0';
 
 if(name){
     console.log("true");
